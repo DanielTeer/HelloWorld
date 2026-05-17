@@ -12,6 +12,7 @@ public class HelloWorld : MonoBehaviour
     void Update()
     {
         Debug.Log("Hello World");
+        Debug.Log("We are learning more and more.");
 
     }
 }
